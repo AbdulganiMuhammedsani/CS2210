@@ -1,0 +1,66 @@
+Please enter a command:
+help
+addstudent <firstName> <lastName> <year>
+addcourse <courseName> <profName> <location> <time (24-hour)>
+enroll <student index> <course index>
+drop <student index> course index>
+students
+courses
+enrollment <course index>
+exit
+
+Please enter a command: Successfully created new student: Jamie Raskin, year: 2
+Please enter a command: Successfully created new student: Sami Bryant, year: 1
+Please enter a command: Successfully created new student: Jonathan Michael, year: 2
+Please enter a command: Successfully created new student: Connor Smith, year: 2
+Please enter a command: Successfully created new student: Samantha Wilson, year: 2
+Please enter a command: Successfully created new student: Millie Camille, year: 2
+Please enter a command: Successfully created new student: Ilkan Till, year: 4
+Please enter a command: Successfully created new student: Jasper Fields, year: 1
+Please enter a command: Successfully created new student: Timothy Scott, year: 2
+Please enter a command: Successfully created new student: Daniel Benson, year: 4
+Please enter a command: Successfully created new student: Danny Fred, year: 3
+Please enter a command:
+0 Jamie Raskin
+1 Sami Bryant
+2 Jonathan Michael
+3 Connor Smith
+4 Samantha Wilson
+5 Millie Camille
+6 Ilkan Till
+7 Jasper Fields
+8 Timothy Scott
+9 Daniel Benson
+10 Danny Fred
+Please enter a command: Successfully created new course: CS2210 taught by Professor Gries at 12:00 PM, Location: Statler_Hall
+Please enter a command: Successfully created new course: CS1110 taught by Professor Scott at 3:30 PM, Location: Uris_Hall
+Please enter a command: Successfully created new course: MATH2210 taught by Professor Dozier at 2:30 AM, Location: Rockefeller_Hall
+Please enter a command:
+  i Name                                   Time        Instructor          Location
+  0 CS2210                                  12:00 PM    Gries               Statler_Hall
+  1 CS1110                                  3:30 PM     Scott               Uris_Hall
+  2 MATH2210                                2:30 AM     Dozier              Rockefeller_Hall
+Please enter a command: Jamie Raskin was successfully enrolled in CS2210
+Please enter a command: Sami Bryant was successfully enrolled in MATH2210
+Please enter a command: Jonathan Michael was successfully enrolled in CS2210
+Please enter a command: Connor Smith was successfully enrolled in CS1110
+Please enter a command: Samantha Wilson was successfully enrolled in MATH2210
+Please enter a command: Millie Camille was successfully enrolled in CS1110
+Please enter a command: Ilkan Till was successfully enrolled in CS1110
+Please enter a command: Jasper Fields was successfully enrolled in CS2210
+Please enter a command: Timothy Scott was successfully enrolled in CS2210
+Please enter a command: Daniel Benson was successfully enrolled in MATH2210
+Please enter a command: Danny Fred was successfully enrolled in MATH2210
+Please enter a command: [Jamie Raskin, Jonathan Michael, Jasper Fields, Timothy Scott]
+Please enter a command: [Connor Smith, Millie Camille, Ilkan Till]
+Please enter a command: [Sami Bryant, Samantha Wilson, Daniel Benson, Danny Fred]
+Please enter a command: Jamie Raskin was successfully dropped from CS2210
+Please enter a command: Ilkan Till was successfully dropped from CS1110
+Please enter a command: Ilkan Till is not enrolled in CS1110
+Please enter a command: Jasper Fields was successfully dropped from CS2210
+Please enter a command: Timothy Scott was successfully dropped from CS2210
+Please enter a command: Daniel Benson was successfully dropped from MATH2210
+Please enter a command: [Jonathan Michael]
+Please enter a command: [Connor Smith, Millie Camille]
+Please enter a command: [Sami Bryant, Samantha Wilson, Danny Fred]
+Please enter a command:

@@ -1,0 +1,135 @@
+Please enter a command:
+help
+addstudent <firstName> <lastName> <year>
+addcourse <courseName> <profName> <location> <time (24-hour)>
+enroll <student index> <course index>
+drop <student index> course index>
+students
+courses
+enrollment <course index>
+exit
+
+Please enter a command: Successfully created new student: Jamie Raskin, year: 2
+Please enter a command: Successfully created new student: Sami Bryant, year: 1
+Please enter a command: Successfully created new student: Jonathan Michael, year: 2
+Please enter a command: Successfully created new student: Connor Smith, year: 2
+Please enter a command: Successfully created new student: Samantha Wilson, year: 2
+Please enter a command: Successfully created new student: Millie Camille, year: 2
+Please enter a command: Successfully created new student: Ilkan Till, year: 4
+Please enter a command: Successfully created new student: Jasper Fields, year: 1
+Please enter a command: Successfully created new student: Timothy Scott, year: 2
+Please enter a command: Successfully created new student: Daniel Benson, year: 4
+Please enter a command: Successfully created new student: Danny Fred, year: 3
+Please enter a command: Successfully created new student: Batte Louis, year: 2
+Please enter a command: Successfully created new student: Franklin Bryant, year: 1
+Please enter a command: Successfully created new student: Jon Khan, year: 2
+Please enter a command: Successfully created new student: Dylan Mitt, year: 2
+Please enter a command: Successfully created new student: Abraham Sam, year: 2
+Please enter a command: Successfully created new student: Conti Michaelson, year: 2
+Please enter a command: Successfully created new student: David Serge, year: 4
+Please enter a command: Successfully created new student: Betty White, year: 1
+Please enter a command: Successfully created new student: Okenstein Germaine, year: 2
+Please enter a command: Successfully created new student: Weld Connors, year: 4
+Please enter a command: Successfully created new student: Popper Winsor, year: 3
+Please enter a command: Successfully created new student: Connie Piliar, year: 2
+Please enter a command: Successfully created new student: Abdulgani Muhammedsani, year: 4
+Please enter a command: Successfully created new student: Ben White, year: 1
+Please enter a command: Successfully created new student: Connie Williams, year: 2
+Please enter a command: Successfully created new student: Solder Compier, year: 4
+Please enter a command: Successfully created new student: Daniel Copper, year: 3
+Please enter a command:
+0 Jamie Raskin
+1 Sami Bryant
+2 Jonathan Michael
+3 Connor Smith
+4 Samantha Wilson
+5 Millie Camille
+6 Ilkan Till
+7 Jasper Fields
+8 Timothy Scott
+9 Daniel Benson
+10 Danny Fred
+11 Batte Louis
+12 Franklin Bryant
+13 Jon Khan
+14 Dylan Mitt
+15 Abraham Sam
+16 Conti Michaelson
+17 David Serge
+18 Betty White
+19 Okenstein Germaine
+20 Weld Connors
+21 Popper Winsor
+22 Connie Piliar
+23 Abdulgani Muhammedsani
+24 Ben White
+25 Connie Williams
+26 Solder Compier
+27 Daniel Copper
+Please enter a command: Successfully created new course: CS2210 taught by Professor Gries at 12:00 PM, Location: Statler_Hall
+Please enter a command: Successfully created new course: CS1110 taught by Professor Scott at 3:30 PM, Location: Uris_Hall
+Please enter a command: Successfully created new course: MATH2210 taught by Professor Dozier at 4:30 PM, Location: Rockefeller_Hall
+Please enter a command:
+  i Name                                   Time        Instructor          Location
+  0 CS2210                                  12:00 PM    Gries               Statler_Hall
+  1 CS1110                                  3:30 PM     Scott               Uris_Hall
+  2 MATH2210                                4:30 PM     Dozier              Rockefeller_Hall
+Please enter a command: Jamie Raskin was successfully enrolled in CS2210
+Please enter a command: Sami Bryant was successfully enrolled in MATH2210
+Please enter a command: Jonathan Michael was successfully enrolled in CS2210
+Please enter a command: Connor Smith was successfully enrolled in CS1110
+Please enter a command: Samantha Wilson was successfully enrolled in MATH2210
+Please enter a command: Millie Camille was successfully enrolled in CS1110
+Please enter a command: Ilkan Till was successfully enrolled in CS1110
+Please enter a command: Jasper Fields was successfully enrolled in CS2210
+Please enter a command: Timothy Scott was successfully enrolled in CS2210
+Please enter a command: Daniel Benson was successfully enrolled in MATH2210
+Please enter a command: Danny Fred was successfully enrolled in MATH2210
+Please enter a command: Batte Louis was successfully enrolled in CS1110
+Please enter a command: Franklin Bryant was successfully enrolled in MATH2210
+Please enter a command: Jon Khan was successfully enrolled in MATH2210
+Please enter a command: Dylan Mitt was successfully enrolled in CS1110
+Please enter a command: Abraham Sam was successfully enrolled in CS2210
+Please enter a command: Conti Michaelson was successfully enrolled in CS2210
+Please enter a command: David Serge was successfully enrolled in CS1110
+Please enter a command: David Serge is already enrolled in CS1110
+Please enter a command: Betty White was successfully enrolled in MATH2210
+Please enter a command: Okenstein Germaine was successfully enrolled in CS2210
+Please enter a command: Weld Connors was successfully enrolled in CS1110
+Please enter a command: Popper Winsor was successfully enrolled in CS2210
+Please enter a command: [Jamie Raskin, Jonathan Michael, Jasper Fields, Timothy Scott, Abraham Sam, Conti Michaelson, Okenstein Germaine, Popper Winsor]
+Please enter a command: [Connor Smith, Millie Camille, Ilkan Till, Batte Louis, Dylan Mitt, David Serge, Weld Connors]
+Please enter a command: [Sami Bryant, Samantha Wilson, Daniel Benson, Danny Fred, Franklin Bryant, Jon Khan, Betty White]
+Please enter a command: Jamie Raskin was successfully dropped from CS2210
+Please enter a command: Ilkan Till was successfully dropped from CS1110
+Please enter a command: Ilkan Till is not enrolled in CS1110
+Please enter a command: Jasper Fields was successfully dropped from CS2210
+Please enter a command: Timothy Scott was successfully dropped from CS2210
+Please enter a command: Daniel Benson was successfully dropped from MATH2210
+Please enter a command: Daniel Benson is not enrolled in MATH2210
+Please enter a command: Jon Khan was successfully dropped from MATH2210
+Please enter a command: Okenstein Germaine was successfully dropped from CS2210
+Please enter a command: David Serge was successfully dropped from CS1110
+Please enter a command: David Serge was successfully enrolled in CS1110
+Please enter a command: David Serge is already enrolled in CS1110
+Please enter a command: [Jonathan Michael, Abraham Sam, Conti Michaelson, Popper Winsor]
+Please enter a command: [Connor Smith, Millie Camille, Batte Louis, Dylan Mitt, Weld Connors, David Serge]
+Please enter a command: [Sami Bryant, Samantha Wilson, Danny Fred, Franklin Bryant, Betty White]
+Please enter a command: Successfully created new course: English taught by Professor Timo at 12:00 PM, Location: Goldwin_Smith_Hall
+Please enter a command: Connie Piliar was successfully enrolled in English
+Please enter a command: Abdulgani Muhammedsani was successfully enrolled in MATH2210
+Please enter a command: Ben White was successfully enrolled in English
+Please enter a command: Connie Williams was successfully enrolled in English
+Please enter a command: Solder Compier was successfully enrolled in English
+Please enter a command:
+  i Name                                   Time        Instructor          Location
+  0 CS2210                                  12:00 PM    Gries               Statler_Hall
+  1 CS1110                                  3:30 PM     Scott               Uris_Hall
+  2 MATH2210                                4:30 PM     Dozier              Rockefeller_Hall
+  3 English                                 12:00 PM    Timo                Goldwin_Smith_Hall
+Please enter a command: Abdulgani Muhammedsani was successfully dropped from MATH2210
+Please enter a command: [Jonathan Michael, Abraham Sam, Conti Michaelson, Popper Winsor]
+Please enter a command: [Connor Smith, Millie Camille, Batte Louis, Dylan Mitt, Weld Connors, David Serge]
+Please enter a command: [Sami Bryant, Samantha Wilson, Danny Fred, Franklin Bryant, Betty White]
+Please enter a command: [Connie Piliar, Ben White, Connie Williams, Solder Compier]
+Please enter a command:

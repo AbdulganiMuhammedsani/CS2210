@@ -1,0 +1,41 @@
+help
+addstudent Jamie Raskin 2
+addstudent Sami Bryant 1
+addstudent Jonathan Michael 2
+addstudent Connor Smith 2
+addstudent Samantha Wilson 2
+addstudent Millie Camille 2
+addstudent Ilkan Till 4
+addstudent Jasper Fields 1
+addstudent Timothy Scott 2
+addstudent Daniel Benson 4
+addstudent Danny Fred 3
+students
+addcourse CS2210 Gries Statler_Hall 12:00
+addcourse CS1110 Scott Uris_Hall 15:30
+addcourse MATH2210 Dozier Rockefeller_Hall 2:30
+courses
+enroll 0 0
+enroll 1 2
+enroll 2 0
+enroll 3 1
+enroll 4 2
+enroll 5 1
+enroll 6 1
+enroll 7 0
+enroll 8 0
+enroll 9 2
+enroll 10 2
+enrollment 0
+enrollment 1
+enrollment 2
+drop 0 0
+drop 6 1
+drop 6 1
+drop 7 0
+drop 8 0
+drop 9 2
+enrollment 0
+enrollment 1
+enrollment 2
+exit

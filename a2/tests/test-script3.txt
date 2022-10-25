@@ -1,0 +1,88 @@
+help
+addstudent Jamie Raskin 2
+addstudent Sami Bryant 1
+addstudent Jonathan Michael 2
+addstudent Connor Smith 2
+addstudent Samantha Wilson 2
+addstudent Millie Camille 2
+addstudent Ilkan Till 4
+addstudent Jasper Fields 1
+addstudent Timothy Scott 2
+addstudent Daniel Benson 4
+addstudent Danny Fred 3
+addstudent Batte Louis 2
+addstudent Franklin Bryant 1
+addstudent Jon Khan 2
+addstudent Dylan Mitt 2
+addstudent Abraham Sam 2
+addstudent Conti Michaelson 2
+addstudent David Serge 4
+addstudent Betty White 1
+addstudent Okenstein Germaine 2
+addstudent Weld Connors 4
+addstudent Popper Winsor 3
+addstudent Connie Piliar 2
+addstudent Abdulgani Muhammedsani 4
+addstudent Ben White 1
+addstudent Connie Williams 2
+addstudent Solder Compier 4
+addstudent Daniel Copper 3
+students
+addcourse CS2210 Gries Statler_Hall 12:00
+addcourse CS1110 Scott Uris_Hall 15:30
+addcourse MATH2210 Dozier Rockefeller_Hall 16:30
+courses
+enroll 0 0
+enroll 1 2
+enroll 2 0
+enroll 3 1
+enroll 4 2
+enroll 5 1
+enroll 6 1
+enroll 7 0
+enroll 8 0
+enroll 9 2
+enroll 10 2
+enroll 11 1
+enroll 12 2
+enroll 13 2
+enroll 14 1
+enroll 15 0
+enroll 16 0
+enroll 17 1
+enroll 17 1
+enroll 18 2
+enroll 19 0
+enroll 20 1
+enroll 21 0
+enrollment 0
+enrollment 1
+enrollment 2
+drop 0 0
+drop 6 1
+drop 6 1
+drop 7 0
+drop 8 0
+drop 9 2
+drop 9 2
+drop 13 2
+drop 19 0
+drop 17 1
+enroll 17 1
+enroll 17 1
+enrollment 0
+enrollment 1
+enrollment 2
+addcourse English Timo Goldwin_Smith_Hall 12:00
+enroll 22 3
+enroll 23 2
+enroll 24 3
+enroll 25 3
+enroll 26 3
+courses
+drop 23 2
+enrollment 0
+enrollment 1
+enrollment 2
+enrollment 3
+exit
