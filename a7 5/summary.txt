@@ -1,0 +1,21 @@
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members: Abdulgani Muhammedsani amm546
+
+Time spent on the assignment, in hours:15
+
+Implementation strategy:
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+    I broke it down step by step, and spend lots of time trying to think out how I wanted to implement each method,
+    and the coded it after having a good idea of the implementation algorithm.
+
+Testing strategy:
+    (how did you perform testing and design test cases to achieve coverage?).
+    I made sure to test things thoroughly after having issues with it. I purposely added tests to ensure
+    the bugs I initially had, and unique corner cases were addressed and solved.
+
+Known problems:
+    (are there any things that do not work?)
+    Nope.
+
+Comments on the assignment: I enjoyed the assignment, I liked the structure and it was very engaging.
