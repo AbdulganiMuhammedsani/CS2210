@@ -1,0 +1,20 @@
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members:Abdulgani Muhammedsani amm546
+
+Time spent on the assignment, in hours: 15
+
+Implementation strategy:
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+    I was aware of the potential of issues to cascade, so I created lots of helper methods during the implementation.
+
+Testing strategy:
+    (how did you perform testing and design test cases to achieve coverage?)
+    I also printed out components to visualize what was going on and what paths were traversed by my code.
+Known problems:
+    (are there any things that do not work?) Nope. No problems.
+
+Time spent on the assignment, in hours: 15
+
+Comments on the assignment:I felt that it was a little more time consuming then other projects, and I had
+more trouble understanding the specifications.
